@@ -1,4 +1,4 @@
-print('loaded')
+print('heno loaded!')
 
 m = open("0heno.", "w")
 m1 = open("1heno", "w")
